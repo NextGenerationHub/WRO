@@ -16,7 +16,9 @@ We programmed the car to start moving when the key is "ON" so that the raspberry
 this is in the qualification stage .
 for the final Stage the camera will see the traffic sign so when the traffic sign is red the car will go right but if its green the servo motor "steering" will go left.
 
-# code explanation
+# code explanation 
+we import 
 
 
  
+ # 
