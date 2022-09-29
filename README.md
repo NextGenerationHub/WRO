@@ -43,11 +43,7 @@ we have imported mutible libraries sucg as : "RPi.GPIO" "cv2" "numpy" "amutils" 
 for more information about wires coniction , check the "diagram" picture.
 for more information aboyt the code , check the "code" file.
 
-
-
-
-
-
-
- 
- # 
+# Motivation
+Our first and main reason to participate in this compittition is our passion to become a programmers , computer engineers or anything related to this field .
+So each one of us had a his own self MOTIVATION that came from our ampission .
+We worked really hard under tough and chalenging circumstances to raech this point and avhieve what we are looking for .
