@@ -18,26 +18,26 @@ for the final Stage the camera will see the traffic sign so when the traffic sig
 
 # code explanation 
 we have imported mutible libraries sucg as : "RPi.GPIO" "cv2" "numpy" "amutils" and "time".
-1.for the motor driver PINS : 
-1.1.in1 --> GPIO20 
-1.2.in2 --> GPIO16
-1.3.en_a --> GPIO21
-2.and for the color sensor PINS : 
-2.1.s2 --> GPIO27
-2.2.s3 --> GPIO22
-2.3.signal(out) --> GPIO17
-2.4.NUM_CYCLES --> GPIO10
-3.for the first ultrasonic sensor PINS:
-3.1.trig --> GPIO5
-3.2.echo --> GPIO6
-4.for the Second ultrasonic sensor PINS:
-4.1trig --> GPIO26
-4.2echo --> GPIO19
-5.for the frontal ultrasonic sensor PINS:
-5.1trig --> GPIO2
-5.2echo --> GPIO3
-6.then for the servo motor PIN :
-6.1.DATA --> GPIO23
+1. for the motor driver PINS : 
+1.1. in1 --> GPIO20 .
+1.2. in2 --> GPIO16.
+1.3. en_a --> GPIO21.
+2. and for the color sensor PINS : 
+2.1. s2 --> GPIO27.
+2.2. s3 --> GPIO22.
+2.3. signal(out) --> GPIO17.
+2.4. NUM_CYCLES --> GPIO10.
+3. for the first ultrasonic sensor PINS:
+3.1. trig --> GPIO5.
+3.2. echo --> GPIO6.
+4. for the Second ultrasonic sensor PINS:
+4.1. trig --> GPIO26.
+4. 2echo --> GPIO19.
+5. for the frontal ultrasonic sensor PINS:
+5.1. trig --> GPIO2.
+5.2. echo --> GPIO3.
+6. then for the servo motor PIN :
+6.1. DATA --> GPIO23.
 
 *all the previous equipments were also connected to a 9V battery*
 for more information about wires coniction , check the "diagram" picture.
