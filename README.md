@@ -2,7 +2,7 @@
 # Next Generation
 We are Hala W , Hala D and Taha the palestinian team members who build and Programmed our own self-driving car to participate in WRO competition .
 
-#Some of the used equipments 
+# Some of the used equipments 
 1. raspberry pi 4 : the car's main microcontroller.
 2. raspberry pi camera : to recognize the traffic sign color.
 3. DC motor(3v) : to drive the car.(on the Rear wheels)
