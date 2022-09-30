@@ -16,8 +16,9 @@ We programmed the car to start moving when the key is "ON" so that the raspberry
 this is in the qualification stage .
 for the final Stage the camera will see the traffic sign so when the traffic sign is red the car will go right but if its green the servo motor "steering" will go left.
 
-# code explanation 
+# About code 
 we have imported mutible libraries sucg as : "RPi.GPIO" "cv2" "numpy" "amutils" and "time".
+# RASPBERRY PI PINS connections 
 1. for the motor driver PINS : 
 1.1. in1 --> GPIO20 .
 1.2. in2 --> GPIO16.
@@ -40,10 +41,11 @@ we have imported mutible libraries sucg as : "RPi.GPIO" "cv2" "numpy" "amutils" 
 6.1. DATA --> GPIO23.
 
 *all the previous equipments were also connected to a 9V battery*
-for more information about wires coniction , check the "diagram" picture.
-for more information aboyt the code , check the "code" file.
+For more information about wires coniction , check the "diagram" picture.
+For more information aboyt the code , check the "code" file.
 
 # Motivation
 Our first and main reason to participate in this compittition is our passion to become a programmers , computer engineers or anything related to this field .
 So each one of us had a his own self MOTIVATION that came from our ampission .
 We worked really hard under tough and chalenging circumstances to raech this point and avhieve what we are looking for .
+
