@@ -198,3 +198,4 @@ def ultra():
   print("distance :",dist)
   if dist<=25:
     servo1.ChangeDutyCycle(
+      
