@@ -52,7 +52,7 @@ For more information about wires coniction , check the "diagram" picture.
 For more information aboyt the code , check the "code" file.
 
 # Construction Process
-At first we start of collecting the hardware we need to build the car and after we looked hard for them we begin the building process that we thought its going to be not that hard but surprisingly it wasn't a lot of challenges faced us like  
+At first we start of collecting the hardware that we need to build the car and after that we looked hard for then we begin the building process that we thought its going to be not that hard but surprisingly it was a lot of challenges faced us like : power supply we couldn't found the 5V and 3A power bank , and the servo that crashed but we could manage all things faced us .
 
 # Motivation
 Our first and main reason to participate in this compittition is our passion to become a programmers , computer engineers or anything related to this field .
