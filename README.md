@@ -49,10 +49,14 @@ The last library we used is "time", to organize the car movement on the track .
 
 *all the previous equipments were also connected to a 9V battery*
 For more information about wires coniction , check the "diagram" picture.
-For more information aboyt the code , check the "code" file.
+For more information about the code , check the "code" file.
 
 # Construction Process
-At first we start of collecting the hardware that we need to build the car and after that we looked hard for then we begin the building process that we thought its going to be not that hard but surprisingly it was a lot of challenges faced us like : power supply we couldn't found the 5V and 3A power bank , and the servo that crashed but we could manage all things faced us .
+At first, we start collecting the hardware that we need to build the car and after that we looked hard for then we begin the building process that we thought its going to be not that hard but surprisingly there were a lot of challenges that faced us like the power supply issue, we couldn't find the suitable power bank for our micro controler .
+Another proplem we faced during our work is that the raspberry went down , all our hard work just disappeared , but we fixed that proplem very quickly by formating and rebooting the raspberry , and we got our work back .
+Accidetally, during the expiriminting , we destroyed our servo , it was a very bad break for our team , we almost gave up , but we put ourselves together back ,
+and bought a new one at the end .
+In the end , our team was very strong against all the troubles he faced , we cuoldnt go through any of these troubles with out the help of our coach and our families.
 
 # Motivation
 Our first and main reason to participate in this compittition is our passion to become a programmers , computer engineers or anything related to this field .
