@@ -56,7 +56,5 @@ Our first and main reason to participate in this compittition is our passion to 
 So each one of us had a his own self MOTIVATION that came from our ampission .
 We worked really hard under tough and chalenging circumstances to raech this point and avhieve what we are looking for .
 
-# Code refrences
-1. camera color recognition : https://youtu.be/nty0zSKB4_k
-2. color sensor : 
+
 
