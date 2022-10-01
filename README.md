@@ -17,7 +17,14 @@ this is in the qualification stage .
 for the final Stage the camera will see the traffic sign so when the traffic sign is red the car will go right but if its green the servo motor "steering" will go left.
 
 # About code 
-we have imported mutible libraries sucg as : "RPi.GPIO" "cv2" "numpy" "amutils" and "time".
+we have imported mutible libraries sucg as : "RPi.GPIO" "cv2" "numpy" "imutils" and "time".
+
+# Usage
+The first library we used is "RPi.GPIO", to to control the raspberry PINS connections.
+The second library we used is "cv2", wich is the main library to control the car actions.
+The third library we used is "numpy", to make the camera recognize the color of the traffic signs on the track.
+The fourth library we used is "imutils", it supports the other libraries work perfictly . 
+The last library we used is "time", to organize the car movement on the track . 
 # RASPBERRY PI PINS connections 
 1. for the motor driver PINS : 
 1.1. in1 --> GPIO20 .
