@@ -26,20 +26,20 @@ The third library we used is "numpy", to make the camera recognize the color of 
 The fourth library we used is "imutils", it supports the other libraries work perfictly . 
 The last library we used is "time", to organize the car movement on the track . 
 # RASPBERRY PI PINS connections 
-1. for the motor driver PINS : 
-1.1. in1 --> GPIO20 .
-1.2. in2 --> GPIO16.
-1.3. en_a --> GPIO21.
-2. and for the color sensor PINS : 
-2.1. s2 --> GPIO27.
-2.2. s3 --> GPIO22.
-2.3. signal(out) --> GPIO17.
-2.4. NUM_CYCLES --> GPIO10.
-3. for the first ultrasonic sensor PINS:
-3.1. trig --> GPIO5.
-3.2. echo --> GPIO6.
-4. for the Second ultrasonic sensor PINS:
-4.1. trig --> GPIO26.
+1. for the motor driver PINS :                                                                                                                                       
+1.1. in1 --> GPIO20 .                                                                                                                                                 
+1.2. in2 --> GPIO16.                                                                                                                                             
+1.3. en_a --> GPIO21.                                                                                                                          
+2. and for the color sensor PINS :                                               
+2.1. s2 --> GPIO27.                                                                                                                 
+2.2. s3 --> GPIO22.                                                                                                                                           
+2.3. signal(out) --> GPIO17.                                                                                                                    
+2.4. NUM_CYCLES --> GPIO10.                                                                                                                       
+3. for the first ultrasonic sensor PINS:                                                                                                                   
+3.1. trig --> GPIO5.                                                                                                                     
+3.2. echo --> GPIO6.                                                                                                                                            
+4. for the Second ultrasonic sensor PINS:                                                                                                                          
+4.1. trig --> GPIO26.                                
 4. 2echo --> GPIO19.
 5. for the frontal ultrasonic sensor PINS:
 5.1. trig --> GPIO2.
@@ -62,6 +62,8 @@ In the end , our team was very strong against all the troubles he faced , we cuo
 Our first and main reason to participate in this compittition is our passion to become a programmers , computer engineers or anything related to this field .
 So each one of us had a his own self MOTIVATION that came from our ampission .
 We worked really hard under tough and chalenging circumstances to raech this point and avhieve what we are looking for .
+
+
 
 
 
