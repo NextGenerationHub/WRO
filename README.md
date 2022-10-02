@@ -41,11 +41,11 @@ The last library we used is "time", to organize the car movement on the track .
 4. for the Second ultrasonic sensor PINS:                                                                                                                          
 4.1. trig --> GPIO26.                                
 4. 2echo --> GPIO19.
-5. for the frontal ultrasonic sensor PINS:
-5.1. trig --> GPIO2.
-5.2. echo --> GPIO3.
-6. then for the servo motor PIN :
-6.1. DATA --> GPIO23.
+5. for the frontal ultrasonic sensor PINS:                                                                           
+5.1. trig --> GPIO2.                                           
+5.2. echo --> GPIO3.                             
+6. then for the servo motor PIN :                          
+6.1. DATA --> GPIO23.                                          
 
 *all the previous equipments were also connected to a 9V battery*
 For more information about wires coniction , check the "diagram" picture.
